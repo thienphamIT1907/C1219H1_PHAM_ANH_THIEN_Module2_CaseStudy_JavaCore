@@ -1,5 +1,0 @@
-id,nameService,areaUsed,rentalCosts,maxNumberOfPeople,typeRent,roomStandard,convenientDescription,areaPool,numberOfFloors
-SVVL-0001,Villaone,1000.0,300.0,5,Normal,Normal,Normal,90.0,4
-SVVL-0002,Villatwo,300.0,1200.0,8,Vip,Vip,Vip,1000.0,32
-SVVL-0003,Villathree,900.0,3100.0,10,Supervip,Supervip,Supervip,900.0,70
-SVVL-0003,Villathree,900.0,3100.0,10,Supervip,Supervip,Supervip,900.0,80

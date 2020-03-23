@@ -1,3 +1,0 @@
-id,nameService,areaUsed,rentalCosts,maxNumberOfPeople,typeRent,roomStandard,convenientDescription,numberOfFloors
-SVHO-0001,Houseone,90.0,320.0,10,Normal,Normal,Normal,9
-SVHO-0002,Housetwo,90.0,230.0,10,Vip,Vip,Vip,9
