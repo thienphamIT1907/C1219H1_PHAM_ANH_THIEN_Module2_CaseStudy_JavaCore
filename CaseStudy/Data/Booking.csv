@@ -1,0 +1,2 @@
+customerName,customerBirthday,customerGender,customerIDCard,customerNumberPhone,customerEmail,customerType,customerAddress,id,nameService,areaUsed,rentalCosts,maxNumberOfPeople,typeRent
+Thien,19/07/1996,Male,123 123 123,0784992191,thien@gmail.com,Master,Da Nang,SVVL-0003,Villathree,900.0,3100.0,10,10,Supervip
